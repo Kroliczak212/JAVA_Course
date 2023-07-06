@@ -1,5 +1,5 @@
 # JAVA_Course
-zadania z kursu z javy\
+zadania z kursu javy\
 
 -Pierwsze kroki z wyświetlaniem tekstu.
 
